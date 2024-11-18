@@ -20,6 +20,7 @@ Configure network settings, including VPC, Subnet Group, and Security Group to a
 Launch the RDS instance, connect to it using a database client (e.g., MySQL Workbench or CLI), and test its functionality by creating and querying a sample table.
 
 ## COMMANDS
+
 ```
 mysql -h <endpoint> -u <username> -p
 
